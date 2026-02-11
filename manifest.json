@@ -1,0 +1,19 @@
+{
+  "short_name": "KasirPro",
+  "name": "Kasir Pro Premium POS",
+  "description": "Aplikasi Kasir Modern Bisa Offline",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/9425/9425115.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#6366f1",
+  "orientation": "portrait"
+}
+
